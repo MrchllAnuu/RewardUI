@@ -1,6 +1,6 @@
 <?php
 
-namespace Form\Kyz;
+namespace Form\Reward;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\events\Listener;
