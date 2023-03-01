@@ -1,0 +1,19 @@
+#Plugin By Mrchllcloud
+
+config-version: 2
+
+#Change Values Here!
+title: "§l§eBloodHuman Reward"
+content: "Claim Reward Mu Disini:)"
+vote-title: "§l§eHADIAH VOTE"
+vote-content: "§l§eHADIAH?\n\n§r§g1. Money 1JT\n2. Coin 250\n3. 10 Key Epic\n4. 15 Key Blood"
+## # ##
+## # ##
+## # ##
+cmd1: "klaimkode"
+button1: "§l§eClaimCode\n§o§7Click To Claim Code"
+## ##
+cmd2: "reward"
+button2: "§l§eClaimDaily\n§o§7Click To Claim Daily Reward"
+## ##
+vote-button: "§l§eHadiah Vote\n§o§7Click To See"
